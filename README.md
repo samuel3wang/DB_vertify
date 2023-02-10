@@ -8,5 +8,5 @@
 ### Database Schema 更改
 ```go
 # psql.go
-TablePrefix: "aifs_phm_evolution.",
+TablePrefix: ".",
 ```
